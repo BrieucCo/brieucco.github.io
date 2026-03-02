@@ -2,14 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheresf
+subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>S-310</p>
   
 
 
