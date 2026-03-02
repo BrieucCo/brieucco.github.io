@@ -1,15 +1,13 @@
 ---
 layout: about
-title: about
+title: Brieuc Collet
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>S-310</p>
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,11 +18,11 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
----
+# latest_posts:
+#   enabled: false
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
+# ---
 
 I am a postdoctoral researcher at the <a rel="external nofollow" href="https://pparc.gp.tohoku.ac.jp/?lang=en" target="_blank">Planetary Plasma Atmosphere Research Center (PPARC)</a> at <a rel="external nofollow" href="https://www.tohoku.ac.jp/en/" target="_blank">Tohoku University </a>. My research focuses on the study of magnetospheres using radio and plasma measurements. More specifically, my current position aims at preparing <a rel="external nofollow" href="https://www.esa.int/Science_Exploration/Space_Science/Juice" target="_blank">ESA/JUICE</a> and <a rel="external nofollow" href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo" target="_blank">ESA-JAXA/Bepi Columbo</a> radio instruments for the exploration of Jupiter's moons and magnetosphere and Mercury's magnetosphere.
 
