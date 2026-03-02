@@ -59,28 +59,13 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/webtest/books/the_godfather/";
-            },},{id: "news-i-obtained-my-phd-in-astronomy-and-astrophysics-in-aix-marseille-university-laboratoire-d-astrophysique-de-marseille",
+      },{id: "news-i-obtained-my-phd-in-astronomy-and-astrophysics-in-aix-marseille-university-laboratoire-d-astrophysique-de-marseille",
           title: 'I obtained my PhD in Astronomy and Astrophysics in Aix-Marseille University Laboratoire d’Astrophysique...',
           description: "",
           section: "News",},{id: "news-i-started-a-post-doctoral-position-in-pparc-tohoku-university-japan",
           title: 'I started a post doctoral position in PPARC Tohoku University Japan',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/webtest/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/webtest/teachings/introduction-to-machine-learning/";
-            },},{
+          section: "News",},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
