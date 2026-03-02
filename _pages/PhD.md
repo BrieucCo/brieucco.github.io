@@ -1,0 +1,11 @@
+---
+layout: page
+title: PhD
+permalink: /phd/
+nav: true
+nav_order: 4
+
+---
+<h3><font size="5">My PhD Defense (in French)</font></h3>
+    <iframe width="560" height="315" 
+        src="https://www.youtube.com/embed/-_9N6WAbeQE?si=nAX8Uq91eiZER1By" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
