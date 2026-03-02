@@ -34,6 +34,10 @@ Prior to joining PPARC, I obtained my PhD (2025) in Marseille, France, at the <a
 
 I obtained my Master's degree (2022) in <a rel="external nofollow" href="https://www.universite-paris-saclay.fr/" target="_blank">Paris Saclay University</a>, in Plasma Physics, along with a  <a rel="external nofollow" href="https://www.magisterepfo.universite-paris-saclay.fr/" target="_blank">Magistère of Fundamental Physics</a> . My Bachelor's degree was also obtained at Paris Saclay University (2020). I did a math/physics classes prepa (2017-2019) in Lycee Sainte Anne, Brest, Bretagne, and obtained my high school diploma in Lycee Bossuet, Lannion, Bretagne. Bretagne's cloud and rain only reinforced my fascination with space, stars, and planets, given their rarity there.
 
+My hobbies include long train trips across Japan, collecting playing cards and *eki stamps*, playing board games. I try to be politically involved on ecology and against racial, gender, sexual, income discriminations which should be mandatory in my work.
+
+
+
 <!-- #Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
