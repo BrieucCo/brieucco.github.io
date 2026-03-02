@@ -101,8 +101,8 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/brieuc-collet", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-ADS',
+        title: 'Ads',
         section: 'Socials',
         handler: () => {
           window.open("https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-1314-9632&sort=date+desc", "_blank");
