@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://brieucco.github.io/webtest/sitemap.xml
+Sitemap: https://brieucco.github.io/webtest/./sitemap.xml
