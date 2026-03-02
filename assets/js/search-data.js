@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/webtest/phd/";
           },
-        },{id: "nav-outreach",
-          title: "Outreach",
+        },{id: "nav-outreach-resources",
+          title: "Outreach resources",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/webtest/phd/";
+            window.location.href = "/webtest/outreach/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
