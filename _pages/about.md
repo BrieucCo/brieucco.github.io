@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Planetary Plasma and Atmospheric Research Center, Graduate School of Science, Tohoku University, Sendai, Miyagi 980-8578, Japan
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
