@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Brieuc Collet
+title: about
 permalink: /
 subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres
 
