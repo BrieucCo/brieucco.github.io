@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres
 
@@ -8,6 +8,7 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
+  adress:
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
