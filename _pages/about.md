@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Planetary Plasma and Atmospheric Research Center, Graduate School of Science, Tohoku University, Sendai, Miyagi 980-8578, Japan
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    #<p>555 your office number</p>
-    #<p>123 your address street</p>
+    <p>S-310</p>
   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,7 +21,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
