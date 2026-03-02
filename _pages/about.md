@@ -1,15 +1,17 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
-subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres
+subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheresf
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
-  adress:
+  more_info: >
+    <p>S-310</p>
   
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -23,7 +25,7 @@ announcements:
 #   enabled: false
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
-# ---
+---
 
 I am a postdoctoral researcher at the <a rel="external nofollow" href="https://pparc.gp.tohoku.ac.jp/?lang=en" target="_blank">Planetary Plasma Atmosphere Research Center (PPARC)</a> at <a rel="external nofollow" href="https://www.tohoku.ac.jp/en/" target="_blank">Tohoku University </a>. My research focuses on the study of magnetospheres using radio and plasma measurements. More specifically, my current position aims at preparing <a rel="external nofollow" href="https://www.esa.int/Science_Exploration/Space_Science/Juice" target="_blank">ESA/JUICE</a> and <a rel="external nofollow" href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo" target="_blank">ESA-JAXA/Bepi Columbo</a> radio instruments for the exploration of Jupiter's moons and magnetosphere and Mercury's magnetosphere.
 
