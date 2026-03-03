@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I obtained my PhD in Astronomy and Astrophysics in Aix-Marseille University Laboratoire d'Astrophysique de Marseille
+ I obtained my PhD in Astronomy and Astrophysics in Aix-Marseille University Laboratoire d'Astrophysique de Marseille 
