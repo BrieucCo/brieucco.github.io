@@ -6,13 +6,9 @@ nav: true
 nav_order: 4
 ---
 
-
- Manuscript available [here](https://drive.google.com/file/d/1csXQc8vVLwbRwNOzWQexaUS26quG15eH/view?usp=sharing).
-
 <div class="publications">
   {% bibliography -f papers -q @*[topic~=project_1]* %}
 </div>
-
 
 <h3><font size="5">My PhD Defense (in French)</font></h3>
 
