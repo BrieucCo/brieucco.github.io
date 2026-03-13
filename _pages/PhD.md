@@ -6,6 +6,17 @@ nav: true
 nav_order: 4
 ---
 
+
+<a
+  
+  href="{C:\Users\bricc\Documents\webtest\assets\pdf\manscript_compressed_COLLET.pdf}"
+  target="_blank"
+  rel="noopener noreferrer"
+  class="float-right"
+>
+  <i class="fa-solid fa-file-pdf"></i>
+</a>
+
 <div class="publications">
   {% bibliography -f papers -q @*[topic~=project_1]* %}
 </div>
@@ -21,5 +32,5 @@ nav_order: 4
 
 
 
- ![Word count as a function of time of my thesis](..\assets\img\word_count.png "PhD word count") 
+ <!-- ![Word count as a function of time of my thesis](..\assets\img\word_count.png "PhD word count")  -->
 
