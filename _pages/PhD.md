@@ -5,17 +5,16 @@ permalink: /phd/
 nav: true
 nav_order: 4
 ---
+Blablabla
 
-
-<a
-  
-  href='assets/pdf/manscript_compressed_COLLET.pdf'
+<div>
+<a href==assets/pdf/manscript_compressed_COLLET.pdf
   target="_blank"
   rel="noopener noreferrer"
-  class="float-right"
->
+  class="float-right">
   <i class="fa-solid fa-file-pdf"></i>
 </a>
+</div>
 
 <div class="publications">
   {% bibliography -f papers -q @*[topic~=project_1]* %}
