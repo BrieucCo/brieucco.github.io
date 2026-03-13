@@ -8,7 +8,7 @@ nav_order: 4
 Blablabla
 
 <div>
-<a href==assets/pdf/manscript_compressed_COLLET.pdf
+<a href=assets/pdf/manscript_compressed_COLLET.pdf
   target="_blank"
   rel="noopener noreferrer"
   class="float-right">
