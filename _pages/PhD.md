@@ -6,13 +6,14 @@ nav: true
 nav_order: 4
 ---
 
-
+Links to manuscript below and on the right
 
 <div class="publications">
   {% bibliography -f papers -q @*[topic~=project_1]* %}
 </div>
 
-<h3><font size="5">My PhD Defense (in French)</font></h3>
+<h3><font size="5">PhD Defense Replay </font></h3>
+<h4><font size="2">(in French but slides in English)</font></h3>
 
 ![PhD Replay](https://youtu.be/-_9N6WAbeQE)
 
