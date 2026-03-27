@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-Links to manuscript below and on the right
+Links to manuscript (in English) below and on the right
 
 <div class="publications">
   {% bibliography -f papers -q @*[topic~=project_1]* %}
