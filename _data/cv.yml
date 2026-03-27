@@ -17,7 +17,7 @@ cv:
         area: Astronomy and Astrophysics
         studyType: PhD
         start_date: 2022
-        end_date: 120255
+        end_date: 2025
         score: ""
         summary: Understanding Jovian radio auroral emissions with Juno
 
@@ -40,6 +40,8 @@ cv:
         position: Postdoc
         location: Sendai, Japan
         start_date: 2025
+        end_date: 2027?
+
         summary: Preparing radio instruments for Juice and Bepi-Columbo/Mio
 
     Languages:
