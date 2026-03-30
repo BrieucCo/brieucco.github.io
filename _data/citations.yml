@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-18'
+  last_updated: '2026-03-30'
 papers:
   yZ_eH14AAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: In situ analysis of Jupiter's broadband kilometric auroral radio emissions with Juno
     year: '2025'
   yZ_eH14AAAAJ:UeHWp8X0CEIC:
-    citations: 17
+    citations: 18
     title: The SOPHIE search for northern extrasolar planets-XIX. A system including a cold sub-Neptune potentially transiting a V= 6.5 star HD 88986
     year: '2024'
   yZ_eH14AAAAJ:W7OEmFMy1HYC:
@@ -57,6 +57,10 @@ papers:
     citations: 2
     title: 'Characterization of Jupiter''s decamteric radio sources: localization and new free energy source'
     year: '2023'
+  yZ_eH14AAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Understanding the microphysics of Jovian auroral radio emissions with Juno
+    year: '2025'
   yZ_eH14AAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'VizieR Online Data Catalog: HD88986 radial velocity curves (Heidari+, 2024)'
@@ -66,7 +70,7 @@ papers:
     title: "Magnetosphere\u2010ionosphere\u2010thermosphere coupling study at Jupiter based on Juno's first 30 orbits and modeling tools"
     year: '2022'
   yZ_eH14AAAAJ:ufrVoPGSRksC:
-    citations: 0
+    citations: 2
     title: "Precipitating electron properties of Ganymede\u2019s aurora retrieved from Juno/UVS observations during PJ34"
     year: '2025'
   yZ_eH14AAAAJ:zYLM7Y9cAGgC:
