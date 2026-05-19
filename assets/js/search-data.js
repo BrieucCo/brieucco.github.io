@@ -37,7 +37,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "news-i-obtained-my-phd-in-astronomy-and-astrophysics-in-aix-marseille-university-laboratoire-d-astrophysique-de-marseille",
+        },{id: "news-i-will-present-my-recent-works-at-jpgu-atst-and-mop-the-material-presented-will-be-uploaded-in-publications-reanalysis-of-skr-and-harmonics-on-buttons-slides-and-poster",
+          title: 'I will present my recent works at JPGU, ATST and MOP. The material...',
+          description: "",
+          section: "News",},{id: "news-i-obtained-my-phd-in-astronomy-and-astrophysics-in-aix-marseille-university-laboratoire-d-astrophysique-de-marseille",
           title: 'I obtained my PhD in Astronomy and Astrophysics in Aix-Marseille University Laboratoire d’Astrophysique...',
           description: "",
           section: "News",},{id: "news-i-started-a-post-doctoral-position-in-pparc-tohoku-university-japan",
