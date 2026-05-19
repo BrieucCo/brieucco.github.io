@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres
-
+subtitle: PhD in Space Physics | Radio | Plasma | Magnetospheres | brieuccolletastro[at]gmail[dot]com
 profile:
   align: right
   image: prof_pic.png
