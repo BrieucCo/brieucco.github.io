@@ -37,7 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/outreach/";
           },
-        },{id: "news-i-will-present-my-recent-works-at-jpgu-atst-and-mop-the-material-presented-will-be-uploaded-in-publications-reanalysis-of-skr-and-harmonics-on-buttons-slides-and-poster",
+        },{id: "news-i-will-present-my-recent-works-at-jpgu-atst-and-mop-the-material-presented-will-be-uploaded-in-publications-reanalysis-of-skr-and-harmonics-or-selected-articles-below-on-buttons-slides-and-poster-jpgu-slides-about-harmonics-jpgu-poster-about-skr",
           title: 'I will present my recent works at JPGU, ATST and MOP. The material...',
           description: "",
           section: "News",},{id: "news-i-obtained-my-phd-in-astronomy-and-astrophysics-in-aix-marseille-university-laboratoire-d-astrophysique-de-marseille",
