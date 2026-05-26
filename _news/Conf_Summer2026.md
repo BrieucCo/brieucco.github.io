@@ -6,3 +6,7 @@ related_posts: false
 ---
 
 I will present my recent works at  <a rel="external nofollow" href="https://www.jpgu.org/meeting_e2026/" target="_blank">JPGU</a>, <a rel="external nofollow" href="https://atst-2026.sciencesconf.org/" target="_blank">ATST</a> and <a rel="external nofollow" href="https:events.isae-supaero.fr/event/46/" target="_blank">MOP</a>. The material presented will be uploaded in <a  href="/publications/" target="_blank">publications</a> (*Reanalysis of SKR* and *harmonics*) or selected articles below on buttons “slides” and “poster”.
+
+<a rel="external nofollow" href="/assets/pdf/JPGU_slides_harmo.pdf" target="_blank">JPGU slides about harmonics</a>
+
+<a rel="external nofollow" href="/assets/pdf/poster_SKR.pdf" target="_blank">JPGU poster about SKR</a>
