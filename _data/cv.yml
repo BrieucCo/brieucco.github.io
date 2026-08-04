@@ -50,6 +50,7 @@ cv:
         summary: "for IPRT and Hisaki data"
       
       - name: Analytical direction finding calibration for Juice/RPWI data
+        summary: " "
 
     Languages:
       - name: French
