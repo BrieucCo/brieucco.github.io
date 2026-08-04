@@ -44,6 +44,13 @@ cv:
 
         summary: Preparing radio instruments for Juice and Bepi-Columbo/Mio
 
+
+    Projects:
+      - name: Metadata creation for VESPA
+        summary: "for IPRT and Hisaki data"
+      
+      - name: Analytical direction finding calibration for Juice/RPWI data
+
     Languages:
       - name: French
         summary: "Native speaker"
